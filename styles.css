@@ -1,0 +1,5 @@
+/* styles.css - extracted from index.html */
+body { background-color: #111316; }
+.glass-nav { background: rgba(17, 19, 22, 0.6); backdrop-filter: blur(24px); }
+.material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+.primary-gradient { background: linear-gradient(135deg, #0a21c0 0%, #bdc2ff 100%); }
